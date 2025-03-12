@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Mini Boss
   m_EditorClassIdentifier: 
   name: Shotgun Boss
-  hp: 250
+  hp: 500
   atk: 10
   recovery: 0
   armor: 0
@@ -42,7 +42,7 @@ MonoBehaviour:
   meleeLayer:
     serializedVersion: 2
     m_Bits: 512
-  meleeDamage: 20
+  meleeDamage: 15
   meleeKnockback: 2
   meleeAttackDelay: 0.25
   chestBlueprint: {fileID: 11400000, guid: 09c76747ee6d04f4d8f3605d2a164718, type: 2}

@@ -12,4 +12,4 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6550dd133f07a4f23913af2514011714, type: 3}
   m_Name: Bomb
   m_EditorClassIdentifier: 
-  inventoryStackSize: 2
+  inventoryStackSize: 1

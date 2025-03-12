@@ -13,8 +13,8 @@ MonoBehaviour:
   m_Name: "\u5C04\u64CA\u5C0F\u5175"
   m_EditorClassIdentifier: 
   name: Ranged Monster
-  hp: 25
-  atk: 4
+  hp: 15
+  atk: 5
   recovery: 0
   armor: 0
   atkspeed: 0.5

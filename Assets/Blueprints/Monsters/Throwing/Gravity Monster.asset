@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Gravity Monster
   m_EditorClassIdentifier: 
   name: Gravity
-  hp: 10
+  hp: 5
   atk: 10
   recovery: 0
   armor: 0

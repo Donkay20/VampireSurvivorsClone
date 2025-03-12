@@ -19,7 +19,7 @@ MonoBehaviour:
   lootTable:
     lootTable:
     - item: {fileID: 1437905727660197986, guid: abf49d6cb814647109c1773c37109e8e, type: 3}
-      dropChance: 0
+      dropChance: 0.185
       coinType: 30
     - item: {fileID: 1437905727660197986, guid: abf49d6cb814647109c1773c37109e8e, type: 3}
       dropChance: 0.25

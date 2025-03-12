@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b94449d710f83429796c060423fde854, type: 3}
   m_Name: Level 1
   m_EditorClassIdentifier: 
-  levelTime: 600
+  levelTime: 300
   backgroundTexture: {fileID: 2800000, guid: 42b11be826072496a9d57814c0ca6576, type: 3}
   abilityPrefabs:
   - {fileID: 7378740072262091319, guid: 68faf193e4e8d451aa2229ed6155917b, type: 3}
@@ -52,7 +52,7 @@ MonoBehaviour:
   miniBosses:
   - bossPrefab: {fileID: 8960830493049914446, guid: bf088821f793b4654a2ba39cb4266ae9, type: 3}
     bossBlueprint: {fileID: 11400000, guid: 6aa76d11a438f4bd0aab1e7b138ef8f9, type: 2}
-    spawnTime: 300
+    spawnTime: 150
   finalBoss:
     bossPrefab: {fileID: 8960830493049914446, guid: bf088821f793b4654a2ba39cb4266ae9, type: 3}
     bossBlueprint: {fileID: 11400000, guid: f8c41435c677742d699bbf048ae85731, type: 2}
@@ -197,7 +197,7 @@ MonoBehaviour:
       - 1
       - 1
   chestBlueprint: {fileID: 11400000, guid: 7306af3f2b7df4c818a7f7d847d30570, type: 2}
-  chestSpawnDelay: 30
+  chestSpawnDelay: 20
   chestSpawnAmount: 2
   initialExpGemCount: 25
-  initialExpGemType: 1
+  initialExpGemType: 2

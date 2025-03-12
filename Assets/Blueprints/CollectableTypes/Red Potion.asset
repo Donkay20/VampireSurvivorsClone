@@ -12,4 +12,4 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1a47d7659f43d4de2a563b2dd755f5f6, type: 3}
   m_Name: Red Potion
   m_EditorClassIdentifier: 
-  inventoryStackSize: 2
+  inventoryStackSize: 1

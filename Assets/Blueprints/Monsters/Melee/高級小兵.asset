@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: "\u9AD8\u7D1A\u5C0F\u5175"
   m_EditorClassIdentifier: 
   name: "\u9AD8\u7D1A\u5C0F\u5175"
-  hp: 50
+  hp: 25
   atk: 10
   recovery: 0
   armor: 0
